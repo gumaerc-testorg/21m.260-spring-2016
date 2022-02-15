@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 title: 'Attentive Listening, like Yoga, is about the Practice '
 uid: f73570b1-e652-672b-ea02-c0d949d0aa06

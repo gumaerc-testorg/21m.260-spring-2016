@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 ---
@@ -57,20 +59,6 @@ _21M.260_ may be applied toward a Bachelor of Science in Music or a Bachelor of 
 
 Every spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with two black pianos positioned near a whiteboard marked with musical scores. Tablet armchairs are positioned near the pianos. A flat-screen television is mounted to the wall.]({{< resource_file cf6ca4da-f3df-832f-dbd1-865931f284ff >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom equipped with two pianos, A/V, a whiteboard, and tablet armchairs.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
 Assessment
@@ -111,7 +99,7 @@ Sometimes students come to a course like this one with a stereotypical bias agai
 
 All of the students had studied some harmony or music theory before enrolling in the course, but most had not taken a music history class before participating in _21M.260 Stravinsky to the Present_. This is partly because the course is not taught as part of a sequence of music history courses. If I were teaching _21M.260 Stravinsky to the Present_ at an institution with many music majors (MIT typically has a handful of music majors each year), it would likely be taught as part of a music history sequence. Students would start with early music, learn how the Renaissance built on the medieval period, and then learn how the Baroque period built on the Renaissance period. After that, they’d learn how classical music broke all the rules from the Baroque period. When they’d finally arrive at the twentieth century, they’d know all the music that those twentieth-century composers would have known, which would allow them to understand musical concepts central to the course, such as that when Stravinsky was writing a fugue he was doing something Bach had done earlier in history. 
 
-But because MIT students may have a limited prior understanding of "classical" music that came before the modern period, I have to keep that in mind. Often I have them access [Grove ® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) to read articles that provide historical background about the concepts we’re learning in class.
+But because MIT students may have a limited prior understanding of "classical" music that came before the modern period, I have to keep that in mind. Often I have them access [Grove {{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) to read articles that provide historical background about the concepts we’re learning in class.
 
 Although it takes some adjustment to facilitate this course for students who don’t necessarily possess the standard historical narrative in their heads, it also affords some particularly engaging teaching moments. Serendipity happens when students bring in their own connections to music from the repertoire, often in ways I could not have foreseen because their backgrounds are so much more diversified than a standard curriculum can be. That’s always exciting.
 

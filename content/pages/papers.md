@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Papers
 uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 ---

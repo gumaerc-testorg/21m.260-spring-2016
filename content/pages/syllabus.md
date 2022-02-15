@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 772eca68-1547-a7ad-008d-5103a5eb2a20
 ---
@@ -33,7 +35,7 @@ These books are required:
 
 A [supplemental materials website](https://sites.google.com/site/aunernortonmusic/home) for this book contains many links to online resources, additional references, and downloadable study guides.
 
-Additionally, the class uses [Grove® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
+Additionally, the class uses [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
 
 Communication-Intensive Assignments
 -----------------------------------

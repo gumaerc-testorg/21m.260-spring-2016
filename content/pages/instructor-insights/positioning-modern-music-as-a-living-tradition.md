@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 title: Positioning Modern Music as a Living Tradition
 uid: f74cf962-23a4-a668-7567-936b9f1fc2ee

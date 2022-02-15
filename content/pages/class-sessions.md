@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Sessions
 uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 ---
@@ -27,7 +29,7 @@ Readings
 
 \[Strunk\] = Strunk, Oliver. _Source Readings in Music History_. W. W. Norton & Company, 1998. ISBN: 9780393037524.
 
-Most assignments also begin with a brief biographical reading on a composer, from [Grove® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
+Most assignments also begin with a brief biographical reading on a composer, from [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
 
 {{< tableopen >}}
 {{< theadopen >}}

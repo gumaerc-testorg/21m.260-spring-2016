@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 title: Warming Up to Spark Good Classroom Conversations
 uid: ad589021-6b02-a9fd-052d-3594e5f241a9

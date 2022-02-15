@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Class agenda.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-260-stravinsky-to-the-present-spring-2016/706a71f3e315564a591b124c4c193b31_MIT21M_260S16_class22.pdf
+file: /media/courses/21m-260-stravinsky-to-the-present-spring-2016/706a71f3e315564a591b124c4c193b31_MIT21M_260S16_class22.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Sessions
+parent_type: CourseSection
 resourcetype: Document
 title: 'Minimalism and its Aftermath: Class 22 Agenda and Warm-up'
 uid: 706a71f3-e315-564a-591b-124c4c193b31
