@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'Music and Avant-Garde Performance/Art: Class 16 Agenda and Warm-up'
 uid: 5a9ad33d-c91c-c5b5-7803-5be6aa15b5d0

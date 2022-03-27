@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'The Influence of Jazz: Class 8 Agenda and Warm-up'
 uid: 7677fa69-6423-096a-49f9-2472b4263cdc

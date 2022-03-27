@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'Handout on Set Theory: Intervals and Atonality'
 uid: 444e082b-4c0e-e73a-557c-2ec3294ffa01

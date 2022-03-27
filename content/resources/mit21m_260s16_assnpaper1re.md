@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: Paper 1 Revision
 uid: 31550c0e-3b34-315c-d931-541effb9dd3f

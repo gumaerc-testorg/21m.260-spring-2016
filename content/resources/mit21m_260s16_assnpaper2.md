@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: Paper 2 Prompt
 uid: 240e0ca6-a2a0-d877-6afc-e1caeb9de781

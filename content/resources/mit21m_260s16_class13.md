@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'Reactions to Destruction: Class 13 Agenda'
 uid: 25651f62-5c1e-08f8-a49f-113ca603f92b

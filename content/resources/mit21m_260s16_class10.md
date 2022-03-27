@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: "Bart\xF3k: The Formal and the Folk: Class 10 Agenda and Warm-up"
 uid: 556ff500-ec12-fbfa-3a52-a81a70fbf9d7

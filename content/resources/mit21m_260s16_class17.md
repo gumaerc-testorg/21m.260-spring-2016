@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'Machines and Technologies: Class 17 Agenda and Warm-up'
 uid: 14430990-fb09-248d-f1af-c94eba1d0bf7

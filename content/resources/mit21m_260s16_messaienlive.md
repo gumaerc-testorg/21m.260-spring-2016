@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: 'Messiaen Live: A Retrospective'
 uid: aae0ca40-4a0a-0de3-804d-3f00abab5a09

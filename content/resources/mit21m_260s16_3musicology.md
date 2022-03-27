@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: Three Musicology Talks on Modern Composers
 uid: 8d890bf7-1ccf-9d7c-f652-d5407d5e1ad1

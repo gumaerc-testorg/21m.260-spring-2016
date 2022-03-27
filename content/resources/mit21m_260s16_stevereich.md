@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: "Steve Reich\u2019s Phases of Phases: A Comparison of Electric Counterpoint\
   \ and Radio Rewrite"

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'American and British Landscapes: Class 11 Agenda and Warm-up'
 uid: 0f5ace9e-e9b9-6ef8-287e-251ece2eaae9

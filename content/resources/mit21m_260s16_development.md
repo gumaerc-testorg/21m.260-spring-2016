@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 93cdbe64-eedd-b2d9-1fbe-96122e672173
 resourcetype: Document
 title: "Development and Stasis in Messiaen\u2019s L\u2019ascension"
 uid: 779d4800-ab4f-a6c9-0ff5-b6acfb6d2f81

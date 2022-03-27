@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
+parent_uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 resourcetype: Document
 title: 'New Textures and Spectral Music: Class 18 Agenda'
 uid: 1a29fbaa-8a69-029c-f462-7b4418dd5723
