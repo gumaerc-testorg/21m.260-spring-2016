@@ -10,7 +10,7 @@ title: Warming Up to Spark Good Classroom Conversations
 uid: ad589021-6b02-a9fd-052d-3594e5f241a9
 ---
 
-_In this section, Professor Emily Richmond Pollock shares how engaging students in [warm-up exercises]({{< baseurl >}}/pages/class-sessions) at the beginning of class sessions aligns with her practice of warm calling on students to promote rich, student-led discussions._
+_In this section, Professor Emily Richmond Pollock shares how engaging students in {{< resource_link dead46c6-abd8-d1b5-aea4-b0d71df4de9f "warm-up exercises" >}} at the beginning of class sessions aligns with her practice of warm calling on students to promote rich, student-led discussions._
 
 Warm Calling as a Guiding Philosophy
 ------------------------------------

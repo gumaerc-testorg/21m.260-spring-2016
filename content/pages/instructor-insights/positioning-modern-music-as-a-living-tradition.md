@@ -22,7 +22,7 @@ An important aspect of _21M.260 Stravinsky to the Present_ is inviting composers
 Preparing for the Dialogue
 --------------------------
 
-For educators facilitating visits with musicians and composers, I would recommend asking students to develop questions for the visitors in advance as part of a homework assignment or [warm-up]({{< baseurl >}}/pages/instructor-insights/warming-up-to-spark-good-classroom-conversations). Don’t assume the visitors will do the heavy lifting by facilitating the sessions or presenting a prepared lecture. Asking students to prepare questions in advance ensures they’ll be able to contribute to the dialogue about how the composer's work relates to what the students know about or are interested in, and that will be more valuable for everyone.
+For educators facilitating visits with musicians and composers, I would recommend asking students to develop questions for the visitors in advance as part of a homework assignment or {{< resource_link ad589021-6b02-a9fd-052d-3594e5f241a9 "warm-up" >}}. Don’t assume the visitors will do the heavy lifting by facilitating the sessions or presenting a prepared lecture. Asking students to prepare questions in advance ensures they’ll be able to contribute to the dialogue about how the composer's work relates to what the students know about or are interested in, and that will be more valuable for everyone.
 
 Spotlighting the Relevance of the Visit
 ---------------------------------------

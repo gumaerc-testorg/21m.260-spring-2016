@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 ---
@@ -33,19 +34,19 @@ Instructor Insights
 
 _Below, Professor Emily Richmond Pollock describes various aspects of how she teaches_ 21M.260 Stravinksy to the Present_._
 
-*   [Teaching Critical Thinking through Music]({{< baseurl >}}/pages/instructor-insights/teaching-critical-thinking-through-music)
-*   [Attentive Listening, like Yoga, is about the Practice]({{< baseurl >}}/pages/instructor-insights/deep-listening-like-yoga-is-about-the-practice)
-*   [Warming Up to Spark Good Classroom Conversations]({{< baseurl >}}/pages/instructor-insights/warming-up-to-spark-good-classroom-conversations)
-*   [On Teaching Writing in Musicology]({{< baseurl >}}/pages/instructor-insights/on-teaching-writing-in-musicology)
-*   [Traditional in Scope, Critical in Approach]({{< baseurl >}}/pages/instructor-insights/traditional-in-scope-progressive-in-approach)
-*   [Positioning Modern Music as a Living Tradition]({{< baseurl >}}/pages/instructor-insights/positioning-modern-music-as-a-living-tradition)
+*   {{< resource_link 5b687e41-15ad-9ad0-cdaa-bd4d987abad3 "Teaching Critical Thinking through Music" >}}
+*   {{< resource_link f73570b1-e652-672b-ea02-c0d949d0aa06 "Attentive Listening, like Yoga, is about the Practice" >}}
+*   {{< resource_link ad589021-6b02-a9fd-052d-3594e5f241a9 "Warming Up to Spark Good Classroom Conversations" >}}
+*   {{< resource_link 984fb2d1-fc0a-facb-7a87-f039b684923c "On Teaching Writing in Musicology" >}}
+*   {{< resource_link 63614128-4202-e2a6-5bf9-ae0b155dacf8 "Traditional in Scope, Critical in Approach" >}}
+*   {{< resource_link f74cf962-23a4-a668-7567-936b9f1fc2ee "Positioning Modern Music as a Living Tradition" >}}
 
 Curriculum Information
 ----------------------
 
 ### Prerequisites
 
-_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/)_ or permission of instructor.
+_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005)_ or permission of instructor.
 
 ### Requirements Satisfied
 
@@ -120,7 +121,7 @@ In Class
 --------
 
 *   Met 2 times per week for 1.5 hours per session; 27 sessions total.
-*   [Class sessions]({{< baseurl >}}/pages/class-sessions) were discussion-based, and included warm-ups.
+*   {{< resource_link dead46c6-abd8-d1b5-aea4-b0d71df4de9f "Class sessions" >}} were discussion-based, and included warm-ups.
 *   [Joseph Auner](https://as.tufts.edu/music/people/faculty/auner), author of the course textbook, was a guest speaker during one of the sessions.
 
 Out of Class
