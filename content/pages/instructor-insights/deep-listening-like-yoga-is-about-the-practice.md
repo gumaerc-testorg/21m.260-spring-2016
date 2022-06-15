@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Emily Richmond Pollock explains why she asks
+  students to practice listening to music without distractions, and how the practice
+  of deep listening relates to her philosophy about approaching difficult tasks.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

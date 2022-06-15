@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Class agenda.'
-file: /media/courses/21m-260-stravinsky-to-the-present-spring-2016/990578110c84792b7fd589e7f9174eb5_MIT21M_260S16_class05.pdf
+file: /courses/21m-260-stravinsky-to-the-present-spring-2016/990578110c84792b7fd589e7f9174eb5_MIT21M_260S16_class05.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: "Stravinsky\u2019s Russian Ballets: Class 5 Agenda"
 uid: 99057811-0c84-792b-7fd5-89e7f9174eb5
 ---
+This resource contains information regarding Stravinsky to the present: Class agenda.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Emily Richmond Pollock discusses how the curricular
+  scope is of the course is traditional, while her approach to teaching it is critical.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
