@@ -5,6 +5,7 @@ description: 'This resource contains information regarding Stravinsky to the pre
 file: /courses/21m-260-stravinsky-to-the-present-spring-2016/5583d607a5c373acce2ff65fbef49f93_MIT21M_260S16_class23.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Class Sessions
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Great(?) American Opera: Class 23 Agenda and Warm-up'
 uid: 5583d607-a5c3-73ac-ce2f-f65fbef49f93
 ---
 This resource contains information regarding Stravinsky to the present: Class agenda.
-
