@@ -1,13 +1,20 @@
 ---
 content_type: page
+description: In this section, Professor Emily Richmond shares how engaging students
+  in warm-up exercises at the beginning of class sessions aligns with her philosophy
+  of warm-calling on students and how doing so promotes rich, student-led discussions
+  that enable an instructor to help students engage in deep learning.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
 title: Warming Up to Spark Good Classroom Conversations
 uid: ad589021-6b02-a9fd-052d-3594e5f241a9
 ---
 
-_In this section, Professor Emily Richmond Pollock shares how engaging students in [warm-up exercises]({{< baseurl >}}/pages/class-sessions) at the beginning of class sessions aligns with her practice of warm calling on students to promote rich, student-led discussions._
+_In this section, Professor Emily Richmond Pollock shares how engaging students in {{% resource_link dead46c6-abd8-d1b5-aea4-b0d71df4de9f "warm-up exercises" %}} at the beginning of class sessions aligns with her practice of warm calling on students to promote rich, student-led discussions._
 
 Warm Calling as a Guiding Philosophy
 ------------------------------------

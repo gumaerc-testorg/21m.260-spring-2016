@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page summarizes the course goals, coursework and grading policies,
+  and gives a summary calendar of topics and focus composers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 772eca68-1547-a7ad-008d-5103a5eb2a20
 ---
@@ -33,14 +37,14 @@ These books are required:
 
 A [supplemental materials website](https://sites.google.com/site/aunernortonmusic/home) for this book contains many links to online resources, additional references, and downloadable study guides.
 
-Additionally, the class uses [Grove® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
+Additionally, the class uses [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
 
 Communication-Intensive Assignments
 -----------------------------------
 
 This course satisfies the Music degree Communication Intensive in the Minor (CI-M) ![](/images/educator/icon-question-cim.png) requirement. It requires 5000 words of formal writing, incorporating oral presentation, revision, abstract-writing, and citation practice. Short informal presentations will also be assigned throughout the term.
 
-Details are provided on the [Papers]({{< baseurl >}}/pages/papers) page.
+Details are provided on the {{% resource_link 93cdbe64-eedd-b2d9-1fbe-96122e672173 "Papers" %}} page.
 
 Course Policies
 ---------------

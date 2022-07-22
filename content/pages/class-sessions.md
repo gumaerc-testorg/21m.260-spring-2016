@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page presents the materials for each class session, including daily
+  agendas, in-class warm-up activities, and descriptions of reading, listening and
+  daily homework assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Sessions
 uid: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
 ---
@@ -27,7 +32,7 @@ Readings
 
 \[Strunk\] = Strunk, Oliver. _Source Readings in Music History_. W. W. Norton & Company, 1998. ISBN: 9780393037524.
 
-Most assignments also begin with a brief biographical reading on a composer, from [Grove® Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
+Most assignments also begin with a brief biographical reading on a composer, from [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -79,7 +84,7 @@ Strauss, Richard. _Salome._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 1 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class01)
+{{% resource_link 23d1e3ee-5390-9f87-527a-0cf58a29cbef "Class 1 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -112,13 +117,13 @@ Scriabin, Alexander. _Prometheus._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 2 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class02)
+{{% resource_link 35174753-bd58-57c0-1f20-3b943e7c6790 "Class 2 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 16–34.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 2 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn02)
+{{% resource_link f8c94131-8fa8-4168-dfcd-39500c0c1d5f "Class 2 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +152,7 @@ Berg, Alban. _Lyric Suite._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 3 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class03)
+{{% resource_link 5556c6e8-f6ee-fe26-62ef-85ba858f0184 "Class 3 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -159,7 +164,7 @@ Berg, Alban. _Lyric Suite._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 3 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn03)
+{{% resource_link 3b286308-3b66-4aad-4a1f-7ad76cdb384c "Class 3 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Sibelius, Jean. Symphony No. 5, Movement 1.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 4 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class04)
+{{% resource_link bbd1d71e-ee22-0cec-5f48-003ab914ed41 "Class 4 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -198,7 +203,7 @@ Sibelius, Jean. Symphony No. 5, Movement 1.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 4 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn04)
+{{% resource_link a86bdf21-1b1e-6c0f-38fa-03adf7d81c36 "Class 4 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,13 +230,13 @@ _\----. Petrushka._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 5 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class05)
+{{% resource_link 99057811-0c84-792b-7fd5-89e7f9174eb5 "Class 5 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 64–67 and 70–76.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 5 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn05)
+{{% resource_link ea713091-9439-040c-58f0-0cbd09eaf106 "Class 5 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +266,7 @@ Hindemith, Paul. _Symphony: Mathis der Maler._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 6 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class06)
+{{% resource_link f9280143-b20b-2321-a4da-17335e191a40 "Class 6 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -275,7 +280,7 @@ Hinton, Stephen. "Neue Sachlichkeit, Surrealism, and Gebrauchsmusik." In _A New 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 6 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn06)
+{{% resource_link 0bdf0d5e-13a5-52f7-fe62-857c557c8cad "Class 6 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,9 +311,9 @@ Prokofiev, Sergei. _Symphony No. 1_ "Classical."
 {{< tdopen >}}
 
 
-[Class 7 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class07)
+{{% resource_link d3e498da-0516-2f50-9da0-1f36e2c2f928 "Class 7 agenda and warm-up (PDF)" %}}
 
-[Handout on set theory: intervals and atonality (PDF)]({{< baseurl >}}/resources/mit21m_260s16_settheory) (Courtesy of Michael Cuthbert. Used with permission.)
+{{% resource_link 444e082b-4c0e-e73a-557c-2ec3294ffa01 "Handout on set theory: intervals and atonality (PDF)" %}} (Courtesy of Michael Cuthbert. Used with permission.)
 
 
 {{< tdclose >}}
@@ -316,7 +321,7 @@ Prokofiev, Sergei. _Symphony No. 1_ "Classical."
 \[Auner\] pp. 103–17.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 7 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn07)
+{{% resource_link 36d97b6e-23b2-5244-ee04-1e744ad46c1b "Class 7 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +348,7 @@ Milhaud, Darius. _La création du monde._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 8 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class08)
+{{% resource_link 7677fa69-6423-096a-49f9-2472b4263cdc "Class 8 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -355,7 +360,7 @@ Weiss, Piero, and Richard Taruskin. "The Assimilation of Jazz (Gershwin, Ravel).
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 8 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn08)
+{{% resource_link a3358bf0-5dfd-30f8-9e09-93397278593c "Class 8 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -384,13 +389,13 @@ Berg, Alban. _Violin Concerto._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 9 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class09)
+{{% resource_link 6dbd5044-6c53-85db-3548-cc722afc2fe9 "Class 9 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 124–41.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 9 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn09)
+{{% resource_link 5157a974-dabd-5287-73f7-850eca6f8e21 "Class 9 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -417,13 +422,13 @@ _\----. String Quartet No. 4._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 10 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class10)
+{{% resource_link 556ff500-ec12-fbfa-3a52-a81a70fbf9d7 "Class 10 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 67–70 and 142–6.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 10 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn10)
+{{% resource_link 35aa8186-1cb5-0f80-af2b-df73a915bf63 "Class 10 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -450,13 +455,13 @@ Williams, Ralph Vaughan. _Symphony No. 3_ "Pastoral."
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 11 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class11)
+{{% resource_link 0f5ace9e-e9b9-6ef8-287e-251ece2eaae9 "Class 11 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 148–9 and 153–61.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 11 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn11)
+{{% resource_link 085c36ca-28de-38ed-dc02-35ebd2d4e469 "Class 11 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -485,7 +490,7 @@ Janáček, Leoš. _Káťa Kabanová_, "No, no, no one, yet my heart was beating.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 12 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class12)
+{{% resource_link df2dbbb3-41ff-8900-0459-f8c14c92b3f3 "Class 12 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -499,7 +504,7 @@ Janáček, Leoš. _Káťa Kabanová_, "No, no, no one, yet my heart was beating.
 {{< tdopen >}}
 
 
-[Class 12 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn12)
+{{% resource_link 8c554375-9fc5-9d93-c6e9-f355254381ff "Class 12 assignment (PDF)" %}}
 
 Paper 1 due
 
@@ -530,13 +535,13 @@ Strauss, Richard. _Vier letzte Lieder._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 13 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class13)
+{{% resource_link 25651f62-5c1e-08f8-a49f-113ca603f92b "Class 13 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 170–81.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 13 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn13)
+{{% resource_link 1382f20d-ca6a-5566-70d5-3064e73a7125 "Class 13 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -565,7 +570,7 @@ Prokofiev, Sergei. _Romeo and Juliet._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 14 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class14)
+{{% resource_link 39832fcb-ec9b-de5d-8540-c1e504fc251d "Class 14 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -577,7 +582,7 @@ Prokofiev, Sergei. _Romeo and Juliet._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 14 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn14)
+{{% resource_link 81769222-f088-66c3-2b5d-9349c514e595 "Class 14 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -606,7 +611,7 @@ Babbitt, Milton. _Semi-Simple Variations._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 15 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class15)
+{{% resource_link 246d0fb0-88a7-b160-0ebb-1fa268e6bc7f "Class 15 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -620,7 +625,7 @@ Babbitt, Milton. _Semi-Simple Variations._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 15 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn15)
+{{% resource_link 11c4946a-84fc-d9bc-9ab6-bd986bc7984e "Class 15 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -651,7 +656,7 @@ Ono, Yoko. _Grapefruit._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 16 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class16)
+{{% resource_link 5a9ad33d-c91c-c5b5-7803-5be6aa15b5d0 "Class 16 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -667,7 +672,7 @@ Ono, Yoko. _Grapefruit._
 {{< tdopen >}}
 
 
-[Class 16 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn16)
+{{% resource_link 2c065ada-a893-e7de-cc4e-d2a3c442dfdc "Class 16 assignment (PDF)" %}}
 
 Paper 1 revision due
 
@@ -706,7 +711,7 @@ Stockhausen, Karlheinz. _Gesang der Jünglinge._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 17 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class17)
+{{% resource_link 14430990-fb09-248d-f1af-c94eba1d0bf7 "Class 17 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -722,7 +727,7 @@ Stockhausen, Karlheinz. _Gesang der Jünglinge._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 17 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn17)
+{{% resource_link 9ab70690-e371-0087-8961-a81ebb766551 "Class 17 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -753,13 +758,13 @@ Murail, Tristan. _Vues aériennes._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 18 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class18)
+{{% resource_link 1a29fbaa-8a69-029c-f462-7b4418dd5723 "Class 18 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 234–52.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 18 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn18)
+{{% resource_link 2e37ebfb-2bb6-84fb-1895-2d109fa14512 "Class 18 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -786,13 +791,13 @@ Ferneyhough, Brian. _Flurries._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 19 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class19)
+{{% resource_link 61781143-2af0-3b99-ffb6-ead22be7d1f6 "Class 19 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 251–55.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 19 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn19)
+{{% resource_link 88a84adb-e2cb-c06c-008e-4b82510c46f3 "Class 19 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -821,7 +826,7 @@ Berio, Luciano. _Sinfonia._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 20 agenda (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class20)
+{{% resource_link 333a6908-9bc3-667d-f28c-997b18d4be15 "Class 20 agenda (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -833,7 +838,7 @@ Berio, Luciano. _Sinfonia._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 20 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn20)
+{{% resource_link 54ea9d48-da42-19aa-3929-3cd3f3056b91 "Class 20 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -858,7 +863,7 @@ Takemitsu, Toru. _November Steps._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 21 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class21)
+{{% resource_link 1c115292-a65f-7709-c2c1-f23c48180104 "Class 21 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 274–6.
@@ -866,7 +871,7 @@ Takemitsu, Toru. _November Steps._
 {{< tdopen >}}
 
 
-[Class 21 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn21)
+{{% resource_link cd4c82c4-1411-3d3a-9e9c-9d793c09ee45 "Class 21 assignment (PDF)" %}}
 
 Paper 2: Ready for peer review of abstract and outlines
 
@@ -903,7 +908,7 @@ Riley, Terry. _In C._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 22 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class22)
+{{% resource_link 706a71f3-e315-564a-591b-124c4c193b31 "Class 22 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -917,7 +922,7 @@ Bernard, Jonathan W. "[The Minimalist Aesthetic in the Plastic Arts and in Music
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 22 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn22)
+{{% resource_link b9c12bd7-333d-2a8e-4e45-efcf5812a57d "Class 22 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -946,13 +951,13 @@ Glass, Philip. _Einstein on the Beach._
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 23 agenda and warm-up (PDF)]({{< baseurl >}}/resources/mit21m_260s16_class23)
+{{% resource_link 5583d607-a5c3-73ac-ce2f-f65fbef49f93 "Class 23 agenda and warm-up (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Auner\] pp. 293–305.
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 23 assignment (PDF)]({{< baseurl >}}/resources/mit21m_260s16_assn23)
+{{% resource_link 27d6a62f-0883-c82e-2164-6d3aa5a0f428 "Class 23 assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
