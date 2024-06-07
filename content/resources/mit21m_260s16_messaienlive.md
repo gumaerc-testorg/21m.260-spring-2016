@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Messiaen live: A retrospective.'
 file: /courses/21m-260-stravinsky-to-the-present-spring-2016/aae0ca404a0a0de3804d3f00abab5a09_MIT21M_260S16_MessaienLive.pdf
+file_size: 737331
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
