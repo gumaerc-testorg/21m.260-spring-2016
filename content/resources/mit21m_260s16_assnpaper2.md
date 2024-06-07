@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Paper 2 prompt.'
 file: /courses/21m-260-stravinsky-to-the-present-spring-2016/240e0ca6a2a0d8776afce1caeb9de781_MIT21M_260S16_AssnPaper2.pdf
+file_size: 675744
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

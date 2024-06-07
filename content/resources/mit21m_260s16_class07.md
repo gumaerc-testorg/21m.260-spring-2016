@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Class agenda.'
 file: /courses/21m-260-stravinsky-to-the-present-spring-2016/d3e498da05162f509da01f36e2c2f928_MIT21M_260S16_class07.pdf
+file_size: 618840
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
