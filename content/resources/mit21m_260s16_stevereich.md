@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains information regarding Stravinsky to the present:\
   \ Steve Reich\u2019s phases of phases: A comparison of electric counterpoint and\
   \ radio rewrite."
-file: /courses/21m-260-stravinsky-to-the-present-spring-2016/8955ba59a6d14e1e40c5d86c5ed4dead_MIT21M_260S16_SteveReich.pdf
+file: /ol-ocw-studio-app/courses/21m-260-stravinsky-to-the-present-spring-2016/8955ba59a6d14e1e40c5d86c5ed4dead_MIT21M_260S16_SteveReich.pdf
 file_size: 1427556
 file_type: application/pdf
 learning_resource_types: []
