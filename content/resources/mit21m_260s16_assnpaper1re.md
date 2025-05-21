@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Paper 1 revision.'
-file: /ol-ocw-studio-app/courses/21m-260-stravinsky-to-the-present-spring-2016/31550c0e3b34315cd931541effb9dd3f_MIT21M_260S16_AssnPaper1re.pdf
+file: /courses/21m-260-stravinsky-to-the-present-spring-2016/31550c0e3b34315cd931541effb9dd3f_MIT21M_260S16_AssnPaper1re.pdf
 file_size: 103120
 file_type: application/pdf
 learning_resource_types: []
