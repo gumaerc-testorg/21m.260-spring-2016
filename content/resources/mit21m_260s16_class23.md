@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Stravinsky to the present:
   Class agenda.'
-file: /ol-ocw-studio-app/courses/21m-260-stravinsky-to-the-present-spring-2016/5583d607a5c373acce2ff65fbef49f93_MIT21M_260S16_class23.pdf
+file: /courses/21m-260-stravinsky-to-the-present-spring-2016/5583d607a5c373acce2ff65fbef49f93_MIT21M_260S16_class23.pdf
 file_size: 132688
 file_type: application/pdf
 learning_resource_types: []
