@@ -19,7 +19,7 @@ _In this section, Professor Emily Richmond Pollock shares her views about teachi
 Teaching Precision and Focus
 ----------------------------
 
-_21M.260 Stravinsky to the Present_ satisfies the Music degree {{% resource_link "a1ab4635-a049-47dc-93d7-fa09c9474923" "Communication Intensive in the Major (CI-M)" %}} requirement, which entails 5,000 words of formal writing, and incorporates oral presentation, revision, abstract-writing, and citation practice. Even though CI-M classes are among the final writing courses students take at MIT, many students may not yet understand paper-writing conventions specific to the humanities, such as how to format footnotes and cite texts and secondary sources. 
+_21M.260 Stravinsky to the Present_ satisfies the Music degree [Communication Intensive in the Major (CI-M)](http://web.mit.edu/commreq/index.html) requirement, which entails 5,000 words of formal writing, and incorporates oral presentation, revision, abstract-writing, and citation practice. Even though CI-M classes are among the final writing courses students take at MIT, many students may not yet understand paper-writing conventions specific to the humanities, such as how to format footnotes and cite texts and secondary sources. 
 
 {{< quote "I ask them to cite musical details with bar numbers or track timings so that I know they have not just generalized an observation, but that they've found specific musical evidence for their claims." "— Emily Richmond Pollock" >}}
 
