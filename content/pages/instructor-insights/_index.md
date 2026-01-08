@@ -94,7 +94,7 @@ Sometimes students come to a course like this one with a stereotypical bias agai
 
 All of the students had studied some harmony or music theory before enrolling in the course, but most had not taken a music history class before participating in _21M.260 Stravinsky to the Present_. This is partly because the course is not taught as part of a sequence of music history courses. If I were teaching _21M.260 Stravinsky to the Present_ at an institution with many music majors (MIT typically has a handful of music majors each year), it would likely be taught as part of a music history sequence. Students would start with early music, learn how the Renaissance built on the medieval period, and then learn how the Baroque period built on the Renaissance period. After that, they’d learn how classical music broke all the rules from the Baroque period. When they’d finally arrive at the twentieth century, they’d know all the music that those twentieth-century composers would have known, which would allow them to understand musical concepts central to the course, such as that when Stravinsky was writing a fugue he was doing something Bach had done earlier in history. 
 
-But because MIT students may have a limited prior understanding of "classical" music that came before the modern period, I have to keep that in mind. Often I have them access {{% resource_link "96f84aff-4a3d-4f59-849a-07841a114ab8" "Grove" %}} {{< sup "®" >}}{{% resource_link "96f84aff-4a3d-4f59-849a-07841a114ab8" "Music Online" %}} to read articles that provide historical background about the concepts we’re learning in class.
+But because MIT students may have a limited prior understanding of "classical" music that came before the modern period, I have to keep that in mind. Often I have them access [Grove](https://www.oxfordmusiconline.com/grovemusic) {{< sup "®" >}}[Music Online](https://www.oxfordmusiconline.com/grovemusic) to read articles that provide historical background about the concepts we’re learning in class.
 
 Although it takes some adjustment to facilitate this course for students who don’t necessarily possess the standard historical narrative in their heads, it also affords some particularly engaging teaching moments. Serendipity happens when students bring in their own connections to music from the repertoire, often in ways I could not have foreseen because their backgrounds are so much more diversified than a standard curriculum can be. That’s always exciting.
 
@@ -114,7 +114,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Met 2 times per week for 1.5 hours per session; 27 sessions total.
 - {{% resource_link dead46c6-abd8-d1b5-aea4-b0d71df4de9f "Class sessions" %}} were discussion-based, and included warm-ups.
-- {{% resource_link "dfaff577-3dc4-4b35-9cf1-552c94c312d1" "Joseph Auner" %}}, author of the course textbook, was a guest speaker during one of the sessions.
+- [Joseph Auner](https://as.tufts.edu/music/people/faculty/joseph-auner), author of the course textbook, was a guest speaker during one of the sessions.
 
 ### Out of Class
 

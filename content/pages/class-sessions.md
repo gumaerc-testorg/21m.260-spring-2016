@@ -21,7 +21,7 @@ About Recordings
 
 Specific recorded versions of the assigned works are not listed here, except for a few free online videos. MIT students enrolled in the class had access to online listening for most works, through MIT Libraries subscriptions to Naxos Music Library and Alexander Street. Any recordings to which you have ready access, via libraries or other resources, will be fine.
 
-For works in the Auner _Anthology_, the textbook publisher W. W. Norton has created a {{% resource_link "9b0e9440-0d7e-423f-9877-2e514fda871c" "playlist for _Music in the Twentieth and Twenty-First Centuries_" %}} with links to representative recordings in WorldCat (library search), Amazon, iTunes, and the Naxos Music Library.
+For works in the Auner _Anthology_, the textbook publisher W. W. Norton has created a [playlist for _Music in the Twentieth and Twenty-First Centuries_](http://wwnorton.com/college/music/history/twentiethandtwentyfirst/playlist.aspx) with links to representative recordings in WorldCat (library search), Amazon, iTunes, and the Naxos Music Library.
 
 Readings
 --------
@@ -32,7 +32,7 @@ Readings
 
 \[Strunk\] = Strunk, Oliver. _Source Readings in Music History_. W. W. Norton & Company, 1998. ISBN: 9780393037524.
 
-Most assignments also begin with a brief biographical reading on a composer, from {{% resource_link "b479fa71-2543-480a-bd7d-1ac19d565c4e" "Grove{{< sup \"®\" >}} Music Online" %}} \[a subscription-based service that is not provided for OCW users\].
+Most assignments also begin with a brief biographical reading on a composer, from [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service that is not provided for OCW users\].
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -258,8 +258,8 @@ Weill, Kurt. _Der Lindberghflug_, "Introduction of the Pilot."
 
 Weill, Kurt. _Threepenny Opera._
 
-*   Jozef Sterkens. "{{% resource_link "27c2f0e3-4298-4e85-9935-e777299899cb" "Die Dreigroschenoper - subtitles - songs of the 1931 movie" %}}." September 17, 2013. YouTube. (Watch "Die Moritat von Mackie Messer" from 2:00 until 4:38)
-*   rongcentury. "{{% resource_link "2c53fc5d-8a01-4992-9c4a-4ab6243182c5" "Lotte Lenya Singing \"Seeräuber Jenny\" (Pirate Jenny)" %}}." July 7, 2008. YouTube.
+*   Jozef Sterkens. "[Die Dreigroschenoper - subtitles - songs of the 1931 movie](https://www.youtube.com/watch?v=-igC0jAV_zQ&feature=youtu.be&t=2m)." September 17, 2013. YouTube. (Watch "Die Moritat von Mackie Messer" from 2:00 until 4:38)
+*   rongcentury. "[Lotte Lenya Singing "Seeräuber Jenny" (Pirate Jenny)](https://www.youtube.com/watch?v=Ec0clERjQ5A)." July 7, 2008. YouTube.
 
 Hindemith, Paul. _Symphony: Mathis der Maler._
 
@@ -606,7 +606,7 @@ Messiaen, Olivier. _Quatuor pour la fin du temps._
 
 Babbitt, Milton. _Semi-Simple Variations._
 
-*   {{% resource_link "934194f7-aeb6-49eb-934a-7f22248a111b" "Arrangement by The Bad Plus" %}} (YouTube)
+*   [Arrangement by The Bad Plus](https://www.youtube.com/watch?v=K39WSdVYGdc) (YouTube)
 
 
 {{< tdclose >}}
@@ -815,7 +815,7 @@ Post-Modernism
 
 Crumb, George. _Vox balaenae_
 
-*   Chicago Humanities Festival. "{{% resource_link "3b90dcf5-61eb-4ee1-8cc3-b8ea3cb6ae4d" "Vox Balaenae (Voice of the Whale) - Performance & Discussion" %}}." January 7, 2014. YouTube.
+*   Chicago Humanities Festival. "[Vox Balaenae (Voice of the Whale) - Performance & Discussion](https://www.youtube.com/watch?v=yN_5HtkmztM)." January 7, 2014. YouTube.
 
 ### Supplemental
 
@@ -915,9 +915,9 @@ Riley, Terry. _In C._
 
 \[Auner\] pp. 278–93.
 
-Reich, Steve. "Music as a Gradual Process." In _Writings on Music, 1965–2000_. Oxford University Press, 2002. ISBN: 9780195111712. \[Preview with {{% resource_link "6fd07376-7a4a-4596-88bc-c7ee8e075a7f" "Google Books" %}}\]
+Reich, Steve. "Music as a Gradual Process." In _Writings on Music, 1965–2000_. Oxford University Press, 2002. ISBN: 9780195111712. \[Preview with [Google Books](http://books.google.com/books?id=e03al4R3s04C&pg=PA34=onepage)\]
 
-Bernard, Jonathan W. "{{% resource_link "d32ef1dc-789b-4b92-af78-f094ca95d4b9" "The Minimalist Aesthetic in the Plastic Arts and in Music" %}}." _Perspectives of New Music_ 31 no. 1 (Winter 1993): 86–132.
+Bernard, Jonathan W. "[The Minimalist Aesthetic in the Plastic Arts and in Music](http://www.jstor.org/stable/833043)." _Perspectives of New Music_ 31 no. 1 (Winter 1993): 86–132.
 
 
 {{< tdclose >}}
@@ -940,7 +940,7 @@ Great(?) American Opera
 
 Adams, John. _Doctor Atomic_, Act I, scene 3: Batter my heart.
 
-*   {{% resource_link "2c543e22-db7a-4f78-b84f-af6c524d1f80" "Video by Met Opera on Demand" %}} \[viewable with a 7-day free trial\]
+*   [Video by Met Opera on Demand](http://www.metopera.org/Season/On-Demand/opera/?upc=811357012130) \[viewable with a 7-day free trial\]
 
 ### Supplemental
 
