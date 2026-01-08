@@ -35,9 +35,9 @@ These books are required:
 *   Auner, Joseph. _Music in the Twentieth and Twenty-First Centuries_ . W. W. Norton & Company, 2013. ISBN: 9780393929201. (Also available in eBook format, ISBN: 9780393904604)
 *   ———. _Anthology for Music in the Twentieth and Twenty-First Centuries_. W. W. Norton & Company, 2013. ISBN: 9780393920215.
 
-A {{% resource_link "5faf2c5c-d7a4-43ad-bb65-ce210e724c6b" "supplemental materials website" %}} for this book contains many links to online resources, additional references, and downloadable study guides.
+A [supplemental materials website](https://sites.google.com/site/aunernortonmusic/home) for this book contains many links to online resources, additional references, and downloadable study guides.
 
-Additionally, the class uses {{% resource_link "b479fa71-2543-480a-bd7d-1ac19d565c4e" "Grove{{< sup \"®\" >}} Music Online" %}} \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
+Additionally, the class uses [Grove{{< sup "®" >}} Music Online](http://www.oxfordmusiconline.com/public/book/omo_gmo) \[a subscription-based service not provided for OCW users\] as an additional biographical reference about composers.
 
 Communication-Intensive Assignments
 -----------------------------------
